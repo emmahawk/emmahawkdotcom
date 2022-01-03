@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/emmahawkdotcom/static/css/main.31d6cfe0.css",
+    "main.js": "/emmahawkdotcom/static/js/main.577f8c78.js",
+    "index.html": "/emmahawkdotcom/index.html",
+    "main.577f8c78.js.map": "/emmahawkdotcom/static/js/main.577f8c78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.577f8c78.js"
+  ]
+}
