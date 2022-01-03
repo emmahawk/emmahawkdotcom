@@ -7,7 +7,7 @@ theme = 'researcher'
   author = "Emma Hawk"
   description = "Portfolio website for Emma Hawk."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
-  logo = ""  # url or path to a logo to put in the header
+  logo = "favicon.ico"  # url or path to a logo to put in the header
   [params.footer]
     text = "By Emma Hawk"
     url = "https://github.com/emmahawk/emmahawkdotcom"
