@@ -1,6 +1,6 @@
 ## About Me
 
-{{< figure class="avatar" src="avatar.png" alt="avatar">}}
+{{< figure class="avatar" src="/emmahawkdotcom/avatar.png" alt="avatar">}}
 
 ## Research Interest
 

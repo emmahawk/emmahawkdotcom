@@ -1,7 +1,7 @@
-baseURL = 'https://emmahawk.github.io/emmahawkdotcom'
-languageCode = 'en-us'
-title = 'Emma Hawk'
-theme = 'researcher'
+baseURL = "https://emmahawk.github.io/emmahawkdotcom"
+languageCode = "en-us"
+title = "Emma Hawk"
+theme = "researcher"
 
 [params]
   author = "Emma Hawk"
